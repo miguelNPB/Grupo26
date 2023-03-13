@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\hlocal\\MAPmiguel\\MAPmiguel.csproj",
+      "projectUniqueName": "U:\\hlocal\\Practica3MAP\\MAPmiguel.csproj",
       "projectName": "MAPmiguel",
-      "projectPath": "U:\\hlocal\\MAPmiguel\\MAPmiguel.csproj",
+      "projectPath": "U:\\hlocal\\Practica3MAP\\MAPmiguel.csproj",
       "packagesPath": "C:\\Users\\usuario_local\\.nuget\\packages\\",
-      "outputPath": "U:\\hlocal\\MAPmiguel\\obj\\",
+      "outputPath": "U:\\hlocal\\Practica3MAP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\software\\programacion\\MSVStudio2017\\Shared\\NuGetPackages",
