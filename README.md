@@ -1,1 +1,2 @@
-Cambio que se revertira
+Agregado funcionalidad al programa
+Agregado funcionalidad scrollpieces
