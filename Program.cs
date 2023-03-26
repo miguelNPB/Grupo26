@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola soy Miguel");
+            for (int i = 1; i < 6; i++)
+            {
+                Console.WriteLine("Linea " + i);
+            }
         }
     }
 }
